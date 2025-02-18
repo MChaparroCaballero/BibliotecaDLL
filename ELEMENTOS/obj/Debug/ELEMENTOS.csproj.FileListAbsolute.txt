@@ -1,0 +1,15 @@
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\ELEMENTOS.dll
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\ELEMENTOS.pdb
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\MaterialDesignColors.dll
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\obj\Debug\ELEMENTOS.csproj.AssemblyReference.cache
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\obj\Debug\ELEMENTOS.csproj.CoreCompileInputs.cache
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\obj\Debug\ELEMENTOS.csproj.Up2Date
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\obj\Debug\ELEMENTOS.dll
+C:\Users\mchap\source\repos\ProyectoMusicCostum\ELEMENTOS\ELEMENTOS\obj\Debug\ELEMENTOS.pdb
